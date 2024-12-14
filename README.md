@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am  a youtuber
+I am  a Youtuber has a Full Stack Developer with Python 
 
 
 ## 🌐 Socials:
